@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         LINE StickerShop Copy
-// @namespace    http://tampermonkey.net/
+// @namespace    unfaiyted
 // @version      0.1
 // @description  Script adds a copy button to the stickers to paste the link to them
 // @author       Dane L Miller
 // @match        https://store.line.me/stickershop/product/**
+// @downloadURL  https://github.com/unfaiyted/line-stickershop-copier/raw/master/line.stickershop.copier.js
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
 // @run-at       document-end

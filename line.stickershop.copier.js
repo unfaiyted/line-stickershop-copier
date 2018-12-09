@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         LINE StickerShop Copy
-// @namespace    unfaiyted
+// @namespace    http://danemiller.me/
 // @version      0.1
-// @description  Script adds a copy button to the stickers to paste the link to them
+// @description  Script adds a copy button to the stickers from the LINE StickerShop to paste the link to them in any application.
 // @author       unfaiyted
 // @match        https://store.line.me/stickershop/product/**
 // @downloadURL  https://github.com/unfaiyted/line-stickershop-copier/raw/master/line.stickershop.copier.js
 // @homepageURL  https://github.com/unfaiyted/line-stickershop-copier
+// @updateURL    https://github.com/unfaiyted/line-stickershop-copier/raw/master/line.stickershop.copier.js
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
 // @run-at       document-end
